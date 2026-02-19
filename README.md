@@ -48,9 +48,4 @@ Why NumPy matters:
 - Filtering and selecting data
 - Basic data analysis
 
-Why pandas matters:
-> It allows structured data manipulation similar to working with spreadsheets, but with much more power.
 
----
-
-# 📂 Repository Structure
